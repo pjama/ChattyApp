@@ -1,0 +1,3 @@
+*.map
+client/dist/js/bundle.js
+client/dist/css/style.css
